@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students>
+   <Student>
+      <Id>1</Id>
+      <Name>Gia Huy</Name>
+      <Address>Tran Cao Van</Address>
+      <DateOfBirth>2000-01-01</DateOfBirth>
+   </Student>
+   <Student>
+      <Id>2</Id>
+      <Name>Gia Han</Name>
+      <Address>Tran Hung Dao</Address>
+      <DateOfBirth>2001-02-02</DateOfBirth>
+   </Student>
+   <Student>
+      <Id>3</Id>
+      <Name>Tien Vu</Name>
+      <Address>Dien Bien Phu</Address>
+      <DateOfBirth>2005-04-13</DateOfBirth>
+   </Student>
+</Students>
